@@ -19,7 +19,7 @@ Interactive Power BI dashboard analyzing employee performance and productivity d
 
 ## Dashboard Preview
 
-See the `screenshot` folder for a preview of the dashboard.
+See the "https://github.com/Belal1khalil/HR-Analysis/blob/main/screenshot/page%201.png" folder for a preview of the dashboard.
 
 ## Dataset
 
